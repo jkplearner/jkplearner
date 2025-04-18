@@ -17,7 +17,7 @@ I'm a passionate developer exploring full-stack web and mobile app development. 
 
 ## 🚀 Featured Projects
 
-- 🔍 [Nutrimap](https://github.com/jkplearner/Nutrimap) — Barcode-based food product analyzer
+- 🔍 [Nutrimap](https://github.com/jkplearner/Nutrimap-FoodAnalyzer) — Image based food product analyzer
 - 🌦️ [Weather App](https://github.com/jkplearner/WeatherApplication) — Real-time weather tracker using location
 - 📸 [QR Code Generator](https://github.com/jkplearner/QR-code-Generator) — Instant QR code creation and scanning
 
