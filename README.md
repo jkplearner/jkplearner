@@ -49,5 +49,13 @@ I'm a passionate developer exploring full-stack web and mobile app development. 
 - 📧 Email: [jkpm4321@gmail.com](mailto:jkpm4321@gmail.com)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jkplearner&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_Thanks for checking out my profile! ⭐ Feel free to explore my projects or drop me a message if you'd like to connect or collaborate._
+<p align="center">
+  <img src="https://github.com/Subhapreet21/subhapreet21/blob/output/github-snake-dark.svg" alt="snake gif">
+  <p><i>This animation shows my GitHub activity as a snake game 🐍 — eating my contributions across the calendar!</i></p>
+</p>
+
+---
+
+Thanks for checking out my profile! ⭐ Feel free to explore my projects or drop me a message if you'd like to connect or collaborate._
